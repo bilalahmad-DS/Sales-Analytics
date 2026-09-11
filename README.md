@@ -56,6 +56,14 @@ and months and provide data-driven business recommendations.
 - Investigate high-performing cities.
 - Analyze the factors behind strong monthly performance.
 
+## Visualizations
+
+### Revenue by product 
+![Revenue by Product]
+(revenue_by_product.png)
+
+
+
 ## Project Structure
 
 - `Sales_Analytics_Business_Performance.ipynb` — complete analysis
