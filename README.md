@@ -59,8 +59,7 @@ and months and provide data-driven business recommendations.
 ## Visualizations
 
 ### Revenue by product 
-![Revenue by Product]
-(revenue_by_product.png)
+![Revenue by Product](revenue_by_product.png)
 
 
 
