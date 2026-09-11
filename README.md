@@ -60,9 +60,9 @@ and months and provide data-driven business recommendations.
 
 ### Revenue by product 
 ![Revenue by Product](revenue_by_product.png)
-
+### Monthly Revenue Trend
 ![Monthly Revenue Trend](monthly_revenue_trend.png)
-
+### Quantity Vs Revenue
 ![Quantity Vs Revenue](quantity_vs_revenue.png)
 
 
