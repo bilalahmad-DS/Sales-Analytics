@@ -5,6 +5,9 @@
 This project analyzes sales transaction data to understand business
 performance and identify important sales trends and patterns.
 
+## Project Preview
+![Revenue by Product](revenue_by_product.png)
+
 ## Business Problem
 
 The goal is to identify top-performing products, categories, cities,
